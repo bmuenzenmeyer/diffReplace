@@ -1,9 +1,9 @@
 {
-	"name": "diffReplace",
+	"name": "diff-replace",
 	"version": "0.0.1",
 	"description": "",
 	"license": "MIT",
-	"repository": "https://github.com/bmuenzenmeyer/diffReplace",
+	"repository": "https://github.com/bmuenzenmeyer/diff-replace",
 	"author": {
 		"name": "Brian Muenzenmeyer",
 		"email": "brian.muenzenmeyer@gmail.com",

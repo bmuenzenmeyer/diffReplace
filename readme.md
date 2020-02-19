@@ -1,15 +1,15 @@
-# diffReplace [![Build Status](https://travis-ci.com/bmuenzenmeyer/diffReplace.svg?branch=master)](https://travis-ci.com/bmuenzenmeyer/diffReplace)
+# diff-replace [![Build Status](https://travis-ci.com/bmuenzenmeyer/diff-replace.svg?branch=master)](https://travis-ci.com/bmuenzenmeyer/diff-replace)
 
 ## Install - Not Yet Released
 
 ```
-$ npm install diffReplace
+$ npm install diff-replace
 ```
 
 ## Usage
 
 ```js
-const diffReplace = require("diffReplace");
+const diffReplace = require("diff-replace");
 
 diffReplace("unicorns");
 //=> 'unicorns & rainbows'
@@ -17,7 +17,7 @@ diffReplace("unicorns");
 
 ## API
 
-### diffReplace(input, options?)
+### diff-replace(input, options?)
 
 #### input
 
