@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"description": "",
 	"license": "MIT",
-	"repository": "bmuenzenmeyer/diffReplace",
+	"repository": "https://github.com/bmuenzenmeyer/diffReplace",
 	"author": {
 		"name": "Brian Muenzenmeyer",
 		"email": "brian.muenzenmeyer@gmail.com",
