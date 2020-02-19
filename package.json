@@ -1,16 +1,16 @@
 {
-	"name": "unicorn-fun",
-	"version": "0.0.0",
-	"description": "My awesome module",
+	"name": "diffReplace",
+	"version": "0.0.1",
+	"description": "",
 	"license": "MIT",
-	"repository": "YOUR-GITHUB-USERNAME/unicorn-fun",
+	"repository": "bmuenzenmeyer/diffReplace",
 	"author": {
-		"name": "YOUR NAME",
-		"email": "YOUR EMAIL",
-		"url": "YOUR WEBSITE"
+		"name": "Brian Muenzenmeyer",
+		"email": "brian.muenzenmeyer@gmail.com",
+		"url": "https://brianmuenzenmeyer.com"
 	},
 	"engines": {
-		"node": ">=8"
+		"node": ">=10"
 	},
 	"scripts": {
 		"test": "xo && ava"
@@ -19,8 +19,8 @@
 		"index.js"
 	],
 	"keywords": [
-		"unicorn",
-		"fun"
+		"diff",
+		"codemod"
 	],
 	"dependencies": {},
 	"devDependencies": {
